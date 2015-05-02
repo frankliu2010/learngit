@@ -1,3 +1,3 @@
 git is a version control system
 this is for frank
-git is free
+git is free software distributed under the GPL.
